@@ -14,23 +14,23 @@ To create a responsive landing page with an interactive navigation menu that:
 - **JavaScript**: To add interactivity for scroll and hover effects.  
 
 ## 📂 Project Structure
-├── index.html      # Main HTML file
-├── style.css       # CSS for styling
-├── script.js       # JavaScript for interactivity
-└── README.md       # Documentation
+- index.html      # Main HTML file
+- style.css       # CSS for styling
+- script.js       # JavaScript for interactivity
+- README.md       # Documentation
 
 ## 🚀 How to Run This Project
-Clone this repository:
-git clone https://github.com/rishanmenezes/PRODIGY_WD_01.git
-Open the project folder in a code editor (e.g., VS Code).
-Open index.html in a browser to view the project.
+- Clone this repository:
+- git clone https://github.com/rishanmenezes/PRODIGY_WD_01.git
+- Open the project folder in a code editor (e.g., VS Code).
+- Open index.html in a browser to view the project.
 
 ## 📖 What I Learned
-Creating a fixed navigation bar using CSS.
-Adding scroll-based style changes with JavaScript.
-Using hover effects for interactive navigation menus.
-Making the design responsive for various screen sizes.
+- Creating a fixed navigation bar using CSS.
+- Adding scroll-based style changes with JavaScript.
+- Using hover effects for interactive navigation menus.
+- Making the design responsive for various screen sizes.
 
 ## 🤝 Acknowledgments
-Thanks to PRODIGY Infotech for the opportunity.
-Resources: MDN Web Docs, W3Schools.
+- Thanks to PRODIGY Infotech for the opportunity.
+- Resources: MDN Web Docs, W3Schools.
