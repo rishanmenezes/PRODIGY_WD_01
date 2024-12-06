@@ -15,7 +15,7 @@ To create a responsive landing page with an interactive navigation menu that:
 
 ## 📂 Project Structure
 - index.html      # Main HTML file
-- styles.css       # CSS for styling
+- styles.css      # CSS for styling
 - script.js       # JavaScript for interactivity
 - README.md       # Documentation
 
